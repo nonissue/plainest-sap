@@ -42,9 +42,9 @@
 </style>
 
 <svelte:head>
-  <title>Collate.js</title>
+  <title>Collate.js 2.0</title>
 </svelte:head>
 
-<h2>Collate</h2>
+<h2>Collate.js Prod Deploy</h2>
 
 <p>A simple blog starter with sapper/svelte</p>
