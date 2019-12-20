@@ -16,6 +16,36 @@
   ul {
     margin: 0 0 1em 0;
     line-height: 1.5;
+    padding: 0;
+  }
+
+  h2 {
+    font-size: 1.6em;
+    /* text-transform: uppercase; */
+    font-weight: 700;
+    margin: 0 0 0.5em 0;
+  }
+
+  li {
+    /* margin: 0 0 0.5em 0; */
+    /* list-style-type: decimal; */
+    list-style-type: none;
+    border-bottom: 0.5px solid #333;
+    padding: 10px 0;
+    /* display: inline-block; */
+    clear: both;
+    float: left;
+    /* display: inline; */
+    /* width: inline; */
+  }
+  li::before {
+    /* content: "-"; */
+    /* padding-right: 5px; */
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: bold;
   }
 </style>
 
@@ -23,7 +53,7 @@
   <title>Blog</title>
 </svelte:head>
 
-<h1>Recent posts</h1>
+<h2>Recent posts</h2>
 
 <ul>
   {#each posts as post}
