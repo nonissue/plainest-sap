@@ -17,17 +17,19 @@
     margin: 0 0 1em 0;
     line-height: 1.5;
     padding: 0;
+    padding-left: 1em;
+    /* padding: 0; */
   }
 
   li {
     /* margin: 0 0 0.5em 0; */
     /* list-style-type: decimal; */
-    list-style-type: none;
-    border-bottom: 0.5px solid #333;
-    padding: 10px 0;
+    /* list-style-type: none; */
+    /* border-bottom: 0.5px solid #333; */
+    /* padding: 10px 0; */
     /* display: inline-block; */
-    clear: both;
-    float: left;
+    /* clear: both; */
+    /* float: left; */
     /* display: inline; */
     /* width: inline; */
   }

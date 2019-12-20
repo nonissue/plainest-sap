@@ -38,10 +38,6 @@
     /* display: inline; */
     /* width: inline; */
   }
-  li::before {
-    /* content: "-"; */
-    /* padding-right: 5px; */
-  }
 
   a {
     text-decoration: none;

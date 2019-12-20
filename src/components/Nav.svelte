@@ -98,7 +98,7 @@
       <a rel="prefetch" class:selected={segment === 'blog'} href="blog">blog</a>
     </li>
     <li>
-      <a rel="prefetch" class:selected={segment === 'authors'} href="author">
+      <a rel="prefetch" class:selected={segment === 'author'} href="author">
         authors
       </a>
     </li>
