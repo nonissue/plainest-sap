@@ -13,6 +13,7 @@
     margin: 0 auto;
     margin-left: calc(25% + 1em);
     box-sizing: border-box;
+    background: #fff;
   }
 </style>
 
