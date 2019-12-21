@@ -30,21 +30,11 @@
     /* margin: 0 0 0.5em 0; */
     /* list-style-type: decimal; */
     list-style-type: none;
-    border: 0.5px solid #333;
-    padding: 10px;
-    border-radius: 5px;
-    margin-bottom: 10px;
-    background: #fff;
+    border-bottom: 0.5px solid #333;
+    padding: 10px 0;
     /* display: inline-block; */
     clear: both;
     float: left;
-    box-shadow: 0 2.9px 2.5px -5px rgba(0, 0, 0, 0.1),
-      0 5.9px 5.8px -5px rgba(0, 0, 0, 0.055),
-      0 9.1px 10.4px -5px rgba(0, 0, 0, 0.035),
-      0 12.7px 17.2px -5px rgba(0, 0, 0, 0.022),
-      0 16.9px 28.3px -5px rgba(0, 0, 0, 0.013),
-      0 22.1px 49.5px -5px rgba(0, 0, 0, 0.007),
-      0 29px 107px -5px rgba(0, 0, 0, 0.002);
     /* display: inline; */
     /* width: inline; */
   }

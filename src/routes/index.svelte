@@ -45,6 +45,6 @@
   <title>Collate.js 2.0</title>
 </svelte:head>
 
-<h2>Collate.js</h2>
+<h2>Collate.js Prod Deploy Again</h2>
 
 <p>A simple blog starter with sapper/svelte</p>
