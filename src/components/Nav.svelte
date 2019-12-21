@@ -26,7 +26,12 @@
     padding: 0 1em;
     font-family: monospace;
     font-size: 0.85em;
-
+    box-shadow: 0 2.9px 2.5px rgba(0, 0, 0, 0.02),
+      0 5.9px 5.8px rgba(0, 0, 0, 0.011), 0 9.1px 10.4px rgba(0, 0, 0, 0.007),
+      0 12.7px 17.2px rgba(0, 0, 0, 0.004), 0 16.9px 28.3px rgba(0, 0, 0, 0.003),
+      0 22.1px 49.5px rgba(0, 0, 0, 0.001), 0 29px 107px rgba(0, 0, 0, 0);
+    z-index: 2;
+    position: relative;
     /* justify-content: center; */
     /* justify-content: center; */
   }
